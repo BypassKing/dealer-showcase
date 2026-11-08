@@ -1,0 +1,60 @@
+(function (global) {
+  'use strict';
+
+  global.AUTOHAVEN_BRAND_LOGOS = Object.freeze({
+    toyota: '/brand-logos/toyota.svg',
+    honda: '/brand-logos/honda.svg',
+    nissan: '/brand-logos/nissan.svg',
+    hyundai: '/brand-logos/hyundai.svg',
+    kia: '/brand-logos/kia.svg',
+    ford: '/brand-logos/ford.svg',
+    chevrolet: '/brand-logos/chevrolet.svg',
+    bmw: '/brand-logos/bmw.svg',
+    volkswagen: '/brand-logos/volkswagen.svg',
+    audi: '/brand-logos/audi.svg',
+    mazda: '/brand-logos/mazda.svg',
+    subaru: '/brand-logos/subaru.svg',
+    tesla: '/brand-logos/tesla.svg',
+    volvo: '/brand-logos/volvo.svg',
+    peugeot: '/brand-logos/peugeot.svg',
+    renault: '/brand-logos/renault.svg',
+    jeep: '/brand-logos/jeep.svg',
+    mg: '/brand-logos/mg.svg'
+  });
+
+  global.AUTOHAVEN_BRAND_NAMES = Object.freeze({
+    toyota: { name: 'Toyota', name_zh: '丰田' },
+    honda: { name: 'Honda', name_zh: '本田' },
+    nissan: { name: 'Nissan', name_zh: '日产' },
+    hyundai: { name: 'Hyundai', name_zh: '现代' },
+    kia: { name: 'Kia', name_zh: '起亚' },
+    ford: { name: 'Ford', name_zh: '福特' },
+    chevrolet: { name: 'Chevrolet', name_zh: '雪佛兰' },
+    bmw: { name: 'BMW', name_zh: '宝马' },
+    'mercedes-benz': { name: 'Mercedes-Benz', name_zh: '奔驰' },
+    volkswagen: { name: 'Volkswagen', name_zh: '大众' },
+    audi: { name: 'Audi', name_zh: '奥迪' },
+    lexus: { name: 'Lexus', name_zh: '雷克萨斯' },
+    mazda: { name: 'Mazda', name_zh: '马自达' },
+    subaru: { name: 'Subaru', name_zh: '斯巴鲁' },
+    tesla: { name: 'Tesla', name_zh: '特斯拉' },
+    volvo: { name: 'Volvo', name_zh: '沃尔沃' },
+    peugeot: { name: 'Peugeot', name_zh: '标致' },
+    renault: { name: 'Renault', name_zh: '雷诺' },
+    byd: { name: 'BYD', name_zh: '比亚迪' },
+    geely: { name: 'Geely', name_zh: '吉利' },
+    haval: { name: 'Haval', name_zh: '哈弗' },
+    jetour: { name: 'Jetour', name_zh: '捷途' },
+    gac: { name: 'GAC', name_zh: '广汽传祺' },
+    buick: { name: 'Buick', name_zh: '别克' },
+    changan: { name: 'Changan', name_zh: '长安' },
+    wuling: { name: 'Wuling', name_zh: '五菱' },
+    roewe: { name: 'Roewe', name_zh: '荣威' },
+    jeep: { name: 'Jeep', name_zh: 'Jeep' },
+    'land-rover': { name: 'Land Rover', name_zh: '路虎' },
+    chery: { name: 'Chery', name_zh: '奇瑞' },
+    dongfeng: { name: 'Dongfeng', name_zh: '东风' },
+    jac: { name: 'JAC', name_zh: '江淮' },
+    mg: { name: 'MG', name_zh: '名爵' }
+  });
+})(window);

@@ -1,0 +1,22 @@
+Car brand logo assets
+=====================
+
+The 18 SVG shapes in ./brand-logos/ are from Simple Icons:
+https://github.com/simple-icons/simple-icons
+
+Pinned source revision: c71c69e3a27e4436936b831c72643e6513b9f49b
+License reported by the source repository: Creative Commons Zero v1.0 Universal (CC0-1.0)
+License text: https://creativecommons.org/publicdomain/zero/1.0/
+
+Included icons: Audi, BMW, Chevrolet, Ford, Honda, Hyundai, Jeep, Kia,
+Mazda, MG, Nissan, Peugeot, Renault, Subaru, Tesla, Toyota, Volkswagen, Volvo.
+Each SVG was downloaded from that revision's icons/<slug>.svg and given its
+Simple Icons brand color as a root fill attribute. Files are same-origin static
+assets; the site does not request the source repository at runtime.
+
+Brand names and Chinese translations in brand-logos.js are local text mappings,
+not logo assets from Simple Icons. Brands and their marks may remain protected
+by trademark and other rights. CC0 applies to the contributed icon artwork;
+it is not an endorsement or a grant to imply affiliation with any automaker.
+Review the relevant brand terms before using marks in a way that suggests
+official sponsorship or authorization.

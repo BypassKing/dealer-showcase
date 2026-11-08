@@ -1,0 +1,30 @@
+# Local dependencies and runtime data
+node_modules/
+/data/
+/public/uploads/
+
+# Server configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs, coverage and generated browser artifacts
+*.log
+npm-debug.log*
+/coverage/
+/test-results/
+/playwright-report/
+
+# Local backups and editor files
+*.zip
+*.tar
+*.tar.gz
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
